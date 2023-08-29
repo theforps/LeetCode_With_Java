@@ -7,6 +7,7 @@ public class Main {
         Class object = new Class();
         */
 
+        Task2293 task2293 = new Task2293(new int[]{766,510,838,752});
 
     }
 }
