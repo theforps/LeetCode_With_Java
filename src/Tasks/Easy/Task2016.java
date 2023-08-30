@@ -1,4 +1,4 @@
-package Tasks;
+package Tasks.Easy;
 
 //https://leetcode.com/problems/maximum-difference-between-increasing-elements/submissions/1035909842/
 

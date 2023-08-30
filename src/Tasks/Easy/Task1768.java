@@ -1,4 +1,4 @@
-package Tasks;
+package Tasks.Easy;
 
 //https://leetcode.com/problems/merge-strings-alternately
 
