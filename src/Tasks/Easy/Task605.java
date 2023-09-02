@@ -1,8 +1,9 @@
 package Tasks.Easy;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
+
+//https://leetcode.com/problems/can-place-flowers
 
 public class Task605 {
     public Task605(int[] flowerbed, int n)
