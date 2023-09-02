@@ -9,6 +9,7 @@ public class Main {
         Class object = new Class();
         */
 
+        Task1812 task1812 = new Task1812("c7");
 
     }
 }
