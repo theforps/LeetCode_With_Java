@@ -1,6 +1,6 @@
 package Tasks.Easy;
 
-//https://leetcode.com/problems/maximum-difference-between-increasing-elements/submissions/1035909842/
+//https://leetcode.com/problems/maximum-difference-between-increasing-elements
 
 public class Task2016 {
     public Task2016(int[] nums)
