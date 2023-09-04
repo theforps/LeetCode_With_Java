@@ -1,5 +1,4 @@
 import Tasks.Easy.*;
-import Tasks.Medium.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -8,6 +7,7 @@ public class Main {
         Class object = new Class();
         */
 
+        Task2839 task2839 = new Task2839("bnxw", "bwxn");
 
     }
 }
