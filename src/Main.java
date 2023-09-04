@@ -8,6 +8,6 @@ public class Main {
         Class object = new Class();
         */
 
-
+        Task796 task796 = new Task796("abcde", "cdeab");
     }
 }
