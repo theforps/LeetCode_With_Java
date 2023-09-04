@@ -8,6 +8,6 @@ public class Main {
         Class object = new Class();
         */
 
-        Task747 task747 = new Task747(new int[]{1,0,0,0});
+
     }
 }
