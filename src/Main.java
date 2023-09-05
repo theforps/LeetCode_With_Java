@@ -7,7 +7,7 @@ public class Main {
         Class object = new Class();
         */
 
-        Task2839 task2839 = new Task2839("bnxw", "bwxn");
+        Task1460 task1460 = new Task1460(new int[]{1,2,3,4}, new int[]{2,4,1,3});
 
     }
 }
