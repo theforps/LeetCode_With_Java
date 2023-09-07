@@ -1,4 +1,4 @@
-import Tasks.Easy.Task392;
+import Tasks.Easy.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -7,7 +7,7 @@ public class Main {
         Class object = new Class();
         */
 
-        Task392 tasssk39w2 = new Task392("ab","baab");
+        Task1539 task1539 = new Task1539(new int[]{2,3,4,7,11},5);
 
     }
 }
