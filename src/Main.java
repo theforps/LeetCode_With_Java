@@ -7,7 +7,7 @@ public class Main {
         Class object = new Class();
         */
 
-        Task392 tasssk39w2 = new Task392("ab","baab");
+
 
     }
 }
