@@ -1,5 +1,7 @@
 package Tasks.Easy;
 
+//https://leetcode.com/problems/three-consecutive-odds
+
 public class Task1550 {
     public Task1550(int[] arr)
     {
