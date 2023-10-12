@@ -9,7 +9,7 @@ public class Main {
         */
 
 
-        Task2325 task2325 = new Task2325("the quick brown fox jumps over the lazy dog", "vkbs bs t suepuv");
+
 
     }
 }
