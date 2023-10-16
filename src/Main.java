@@ -10,7 +10,7 @@ public class Main {
         Class object = new Class();
         */
 
-        Task2442 task2442 = new Task2442(new int[]{1,13,10,12,31});
+
 
     }
 }
