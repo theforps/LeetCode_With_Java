@@ -1,3 +1,5 @@
+import Tasks.Medium.Task1980;
+
 public class Main {
     public static void main(String[] args) {
         /*
